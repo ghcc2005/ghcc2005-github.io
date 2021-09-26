@@ -1,4 +1,4 @@
 # ghcc2005-github.io
 
-**This** website was made for Web Programming Lab 1.
+This repo is to create a [website](https://ghcc2005.github.io/) for Web Programming Lab 1.
 
