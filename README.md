@@ -62,7 +62,7 @@ Example:
 Example in action: <br />
 *Italic* <br />
 **Bold** <br />
-***Bold Italic*** <br />
+_**Bold Italic**_ <br />
 
 # Useful Links
 ## Github
