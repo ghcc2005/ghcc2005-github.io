@@ -51,7 +51,7 @@ This is the example shown above in action
    2. Bravo
 
 
-## Emphasis
+### Emphasis
 Here we will show you how to do italic, bold and bold italic. To do any of these we incase the word or text with either "*" or "_".
 Example:
 ```
