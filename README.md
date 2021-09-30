@@ -46,8 +46,8 @@ This is the example shown above in action
 1. First
 2. Second
 3. Thrid
- 1. Alpha
- 2. Bravo
+  1. Alpha
+  2. Bravo
 
 ### Emphasis
 Here we will show you how to do italic, bold and bold italic. To do any of these we incase the word or text with either "*" or "_".
