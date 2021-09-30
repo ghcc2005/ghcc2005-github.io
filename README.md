@@ -2,23 +2,7 @@
 This repo is to create a [website](https://ghcc2005.github.io/) for Web Programming Lab 1.
 
 ## Markdown
-Here I will give some often used markdown syntax.
-
-<details>
- <summary> Headings Test </summary>
-```
-# Text (gives the text with <h1> style)
-## Text (gives the text with <h2> style)
-.
-.
-.
-###### text (gives <h6>)
-```
-This is an example shown in action
-#### h4 Text
-##### h5 Text
-</details>
- 
+Here I will give some often used markdown syntax. 
 
 ### Headings
 To do headings you simply need to use the hashtag before the text. For example:
