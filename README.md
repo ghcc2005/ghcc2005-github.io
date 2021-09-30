@@ -4,21 +4,20 @@ This repo is to create a [website](https://ghcc2005.github.io/) for Web Programm
 ## Markdown
 Here I will give some often used markdown syntax.
 
-<details>
- <summary>### Headings </summary>
-  To do headings you simply need to use the hashtag before the text. For example:
-  ```
-  # Text (gives the text with <h1> style)
-  ## Text (gives the text with <h2> style)
-  .
-  .
-  .
-  ###### text (gives <h6>)
-  ```
-  This is an example shown in action
-  #### h4 Text
-  ##### h5 Text
- </details>
+### Headings
+To do headings you simply need to use the hashtag before the text. For example:
+```
+# Text (gives the text with <h1> style)
+## Text (gives the text with <h2> style)
+.
+.
+.
+###### text (gives <h6>)
+```
+This is an example shown in action
+#### h4 Text
+##### h5 Text
+
 ### Lists
 #### Un-ordered lists
 To do un-ordered list you simply need to add either a "-" or "*" at the start of the list. By indenting the "-" or "*" the list is also indented. For example:
