@@ -51,7 +51,7 @@ This is the example shown above in action
    2. Bravo
 
 
-### Emphasis
+## Emphasis
 Here we will show you how to do italic, bold and bold italic. To do any of these we incase the word or text with either "*" or "_".
 Example:
 ```
@@ -64,11 +64,11 @@ Example in action: <br />
 **Bold** <br />
 ***Bold Italic*** <br />
 
-## Useful Links
-### Github
+# Useful Links
+## Github
 - [Learn Github in 15 minutes](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [Github cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Github help](https://docs.github.com/en)
-### Markdown
+## Markdown
 - [Markdown cheatsheet](https://packetlife.net/media/library/16/Markdown.pdf)
 - [Mardown cheatsheet (more in-depth)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
