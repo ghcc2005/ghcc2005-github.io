@@ -14,10 +14,9 @@ To do headings you simply need to use the hashtag before the text. For example:
 .
 ###### text (gives <h6>)
 ```
-This is the example shown above
-# Text (gives the text with <h1> style)
-## Text (gives the text with <h2> style)
-###### text (gives <h6>)
+This is an example shown in action
+#### h4 Text
+##### h5 Text
 
 ### Lists
 #### Un-ordered lists
@@ -33,6 +32,35 @@ This is the example shown above in action
 - Item 2
   * Item 3
   * Item 4
+
+#### Ordered lists
+To do Ordered list you simply need to add "1.", "2.", ... "n." to the start of the list. Same with un-ordered lists if you indent the numbers the list will also be indented. For example:
+```
+1. First
+2. Second
+3. Thrid
+ 1. Alpha
+ 2. Bravo
+```
+This is the example shown above in action
+1. First
+2. Second
+3. Thrid
+ 1. Alpha
+ 2. Bravo
+
+### Emphasis
+Here we will show you how to do italic, bold and bold italic. To do any of these we incase the word or text with either "*" or "_".
+Example:
+```
+*Italic*
+**Bold**
+***Bold Italic***
+```
+Example in action:
+*Italic*
+**Bold**
+***Bold Italic***
 
 ## Useful Links
 #### Github
