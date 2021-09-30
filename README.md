@@ -57,7 +57,7 @@ Example:
 ```
 *Italic*
 **Bold**
-***Bold Italic***
+_**Bold Italic**_
 ```
 Example in action: <br />
 *Italic* <br />
