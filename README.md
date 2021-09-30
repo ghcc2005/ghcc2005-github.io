@@ -17,7 +17,7 @@ Here I will give some often used markdown syntax.
 This is an example shown in action
 #### h4 Text
 ##### h5 Text
-<details>
+</details>
  
 
 ### Headings
