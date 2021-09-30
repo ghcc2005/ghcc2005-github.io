@@ -44,7 +44,7 @@ To do Ordered list you simply need to add "1.", "2.", ... "n." to the start of t
 ```
 This is the example shown above in action
 1. Dog
-    1. German Shepherd
+   1. German Shepherd
     2. Belgian Shepherd
 
 ### Emphasis
