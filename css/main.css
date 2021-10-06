@@ -41,7 +41,8 @@ ul.posts li {
 }
 
 img {
- float: right;
+ display: block;
+ margin: 0;
  width: 20%;
  height: 20%;
 }
